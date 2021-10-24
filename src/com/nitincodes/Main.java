@@ -49,3 +49,4 @@ class Car{
         System.out.println("The price of "+manufacturer+" is " +price);
     }
 }
+// this will print the car which is having the highest price
